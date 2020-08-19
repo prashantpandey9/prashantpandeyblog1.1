@@ -15,7 +15,7 @@ class IndexPage extends React.Component {
           title="Home"
           keywords={[`blog`, `gatsby`, `javascript`, `react`]}
         />
-        {/* <img style={{ margin: 0 }} src="./GatsbyScene.svg" alt="Gatsby Scene" /> */}
+        <img style={{ margin: 0 }} src="./icon.png" alt="Prashant" />
         <h1>
           Hey people{" "}
           <span role="img" aria-label="wave emoji">
@@ -23,10 +23,10 @@ class IndexPage extends React.Component {
           </span>
         </h1>
         <p>Welcome to my blog.
-          Here I write my experiences with code
+          Here I write my experiences.
         </p>
         <Link to="/blog/">
-          <Button marginTop="35px">Go to Blog</Button>
+          <Button marginTop="35px">Go to Blog ></Button>
         </Link>
       </Layout>
     )

@@ -67,7 +67,7 @@ class Layout extends React.Component {
           <main>{children}</main>
         </div>
         <Footer>
-          © {new Date().getFullYear()}, Copyright | 2019-2020
+          © 2019-{new Date().getFullYear()}, Copyright
           {` `}
           <a href="https://prashantpandey.ml">Prashant Pandey</a>
         </Footer>

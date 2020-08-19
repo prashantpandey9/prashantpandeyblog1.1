@@ -3,7 +3,7 @@ title: How to get Bluetooth headphones to work with Ubuntu.
 date: "2020-01-19"
 ---
 
-A few days ago I bought new headphones but my laptop betrayed me. But I also did not give up. Then I took some help from Google. After a few days I got a solution and started implementing it. So here is some steps:
+A few days ago I bought new headphones but my laptop not support the connection for wireless earphones.So I took some help from Google. After a few days I got a solution and started implementing it. So here is some steps:
 
 ### Step I
 

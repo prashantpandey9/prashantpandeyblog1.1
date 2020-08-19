@@ -114,14 +114,14 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Prashant Pandey's Blog`,
+        short_name: `Prashant`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
         // edit below
-        icon: `content/assets/icon.jpeg`,
+        icon: `content/assets/icon.png`,
       },
     },
     {
