@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: prashantpandey9/prashantpandey9-blog1
+  repo: prashantpandey9/prashantpandeyblog1.1 
 
 media_folder: content/assets
 public_folder: ../assets

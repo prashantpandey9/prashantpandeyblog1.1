@@ -1,12 +1,12 @@
 module.exports = {
   siteMetadata: {
     // edit below
-    title: `Gatsby Starter Personal Blog`,
-    author: `Gatsby`,
-    description: `A starter personal blog with styled components, dark mode, and Netlify CMS.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    title: `Prashant Pandey's Blog`,
+    author: `Prashant Pandey`,
+    description: `This is my personal blog where I write my experiences with code`,
+    siteUrl: `https://blog.prashantpandey.ml`,
     social: {
-      twitter: `gatsbyjs`,
+      twitter: `prashant8057152`,
     },
   },
   plugins: [
@@ -121,7 +121,7 @@ module.exports = {
         theme_color: `#663399`,
         display: `minimal-ui`,
         // edit below
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/icon.jpeg`,
       },
     },
     {
