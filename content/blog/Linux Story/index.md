@@ -1,5 +1,5 @@
 ---
-title: Linux Story
+title: Linux Story I
 description: Some Linux Issues
 date: "2019-09-04"
 ---
