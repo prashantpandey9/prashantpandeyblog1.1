@@ -13,7 +13,7 @@ I think it's good to connect with your college alumni and seniors because they k
 ![Meeting Photo](./meet.png)
 
 ## What I learned 
- * Respect your work if it was just a simple project.
+ * Respect your work.
  * Be gentle to everyone.
 
 
