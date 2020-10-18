@@ -1,6 +1,6 @@
 ---
 title: Manzil
-description: Open-source guide
+description: 
 date: "2020-10-18"
 ---
 
