@@ -8,10 +8,12 @@ These days I am revising some concept which I learned while doing some projects.
 
 Here comes the concept called redux. Redux is an open-source JavaScript library for managing application state. 
 
+![Image From https://miro.medium.com/max/1086/1*a15Fjk16s4CVlfHaTkO73w.png](https://miro.medium.com/max/1086/1*a15Fjk16s4CVlfHaTkO73w.png)
+
 There are some terminology for the Redux.
-1.Types
-2.Reducers
-3.Actions
+* Types
+* Reducers
+* Actions
 
 First of all, we need to create a store where our states will store. To change something in the state, we need to dispatch an action. Actions get the data (or something accordingly) and according to the data, it will call the reducers to change or update the state. Lets understand with an example.
 
